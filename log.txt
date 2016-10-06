@@ -1,0 +1,99 @@
+
+Entering data #2
+Tweeted: Wed Oct 05 18:08:05 +0000 2016
+Entering data#1
+Tweeted: Wed Oct 05 18:07:51 +0000 2016
+
+Movie title: Forrest Gump
+IMDB rating: 8.8
+Release Year: 1994
+Plot: Forrest Gump, while not intelligent, has accidentally been present at many historic moments, but his true love, Jenny Curran, eludes him.
+Country: USA
+Language: English
+Actors: Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/forrest_gump/
+Rotten Tomatoes Rating: 7.2
+
+Result #:1
+
+Artist name: Jeremihundefined
+Preview link: https://p.scdn.co/mp3-preview/0de6a01bbbd0c9a2d9cd85febcc8ea099773932eundefined
+
+Result #:2
+Song title: Impatientundefined
+
+Artist name: The Impatient Sistersundefined
+Preview link: https://p.scdn.co/mp3-preview/4bf55cf5745c5fc9f41a2db2006c8a2becfb5688undefined
+Album: Late Nights: The Albumundefined
+
+Result #:3
+Album: The Impatient Sistersundefined
+Song title: Hey There Young Sailorundefined
+
+Artist name: Citizenundefined
+Preview link: https://p.scdn.co/mp3-preview/feee5f7afc66fe9471ebc86e439c46c2a38482eeundefined
+Album: Youthundefined
+Song title: Sick And Impatientundefined
+Song title: Far Awayundefined
+
+Artist name: The Impatient Sistersundefined
+
+Result #:4
+Preview link: https://p.scdn.co/mp3-preview/ae36c58967f81522a118b2b563f19d7ba88adf7dundefined
+Album: The Impatient Sistersundefined
+
+Result #:5
+
+Artist name: The Impatient Sistersundefined
+Song title: Comets and Starsundefined
+Preview link: https://p.scdn.co/mp3-preview/3a1252f6f0cdfe29ba9f2c3942cdb18d5b4c1533undefined
+Album: The Impatient Sistersundefined
+
+Movie title: Forrest Gump
+Release Year: 1994
+IMDB rating: 8.8
+Country: USA
+Language: English
+Plot: Forrest Gump, while not intelligent, has accidentally been present at many historic moments, but his true love, Jenny Curran, eludes him.
+Actors: Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys
+Rotten Tomatoes Rating: 7.2
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/forrest_gump/
+Entering data #2
+Tweeted: Wed Oct 05 18:08:05 +0000 2016
+
+Result #:1
+Entering data#1
+Tweeted: Wed Oct 05 18:07:51 +0000 2016
+
+Artist name: DJ Snakeundefined
+Song title: Let Me Love Youundefined
+Preview link: https://p.scdn.co/mp3-preview/86f2c7ebe49bf7da094b7f1e418dd3b12e2051c1undefined
+Album: Encoreundefined
+
+Result #:2
+
+Artist name: Marioundefined
+Song title: Let Me Love Youundefined
+Preview link: https://p.scdn.co/mp3-preview/cf789f03af0823c236804eac219c0589da733bd3undefined
+Album: Let Me Love Youundefined
+
+Result #:3
+
+Artist name: Ariana Grandeundefined
+Song title: Let Me Love Youundefined
+Preview link: https://p.scdn.co/mp3-preview/e92ec3a365217cb5138bcf78a6bc8bb017f36c70undefined
+Album: Dangerous Womanundefined
+
+Result #:4
+
+Artist name: Marioundefined
+Song title: Let Me Love Youundefined
+Preview link: https://p.scdn.co/mp3-preview/226409a6990091a53bbd125d0e0fa28b0440c829undefined
+Album: Turning Pointundefined
+
+Result #:5
+
+Artist name: William Singeundefined
+Song title: Let Me Love Youundefined
+Preview link: https://p.scdn.co/mp3-preview/125ecc32231712ff9c532713bfa522692b3c9920undefined
+Album: Let Me Love Youundefined
